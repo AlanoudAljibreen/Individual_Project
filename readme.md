@@ -100,6 +100,7 @@ The notebook offers a multi-faceted approach to sentiment analysis, providing in
 
 - Python 3.x
 - Libraries: pandas, nltk, matplotlib, seaborn, transformers, textblob, sklearn, numpy, scipy, tqdm
+- pip install torch torchvision torchaudio
 
 # Note:
 
@@ -126,5 +127,3 @@ kay_sentiment.csv
 
 nykaa_manually_annotated.csv
 kay_manually_annotated.csv
-
-Feel free to fork or clone this repository to adapt the processes to your own data cleaning needs.
